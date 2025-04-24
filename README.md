@@ -3,4 +3,9 @@ Software design, communication and collaboration tools that aren't often shown i
 
 List of skills and tools:
 - Typesetting using LaTeX
-- ER Diagramming using Figma
+- ER Diagrams using Figma
+- Use Case Diagrams using Figma
+- UML Diagrams using Mermaid.js
+- Sequence Diagrams using Mermaid.js
+- State Machines using Mermaid.js
+- Use Cases and Requirements Traceability Matrices
